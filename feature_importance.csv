@@ -1,0 +1,1139 @@
+Feature,Importance
+Sales,0.4686208639903422
+Discount,0.29344635063817825
+Shipping Cost,0.03894376788404429
+Day,0.02644706376113003
+Sales_x_Quantity,0.01959456649567056
+Sales_x_Quantity,0.01894819938840024
+Month,0.015005099181921526
+Weekday,0.014547435620060476
+Year,0.009798062888314904
+Quantity,0.007604412040577252
+Category_Technology,0.0037201561547699946
+Market_US,0.003710208985626887
+Segment_Corporate,0.0036176143034589944
+Quarter,0.003247282627142927
+Sub-Category_Binders,0.0032073490989023936
+Ship Mode_Standard Class,0.0031116620687327776
+Sub-Category_Storage,0.002975680515255811
+Segment_Home Office,0.0029282499187034574
+Ship Mode_Second Class,0.0029001249512487803
+Sub-Category_Copiers,0.002882149699710952
+Market_EU,0.002408654606158035
+Region_Central,0.0023568672040798896
+Sub-Category_Chairs,0.0022738242295947454
+Sub-Category_Bookcases,0.002133035547884708
+Category_Office Supplies,0.0019553826117064237
+Sub-Category_Machines,0.0019108136137151758
+Market_LATAM,0.0018915425818475
+Region_South,0.0018808941302710853
+Sub-Category_Phones,0.001714812607262805
+Sub-Category_Tables,0.0016663407693021976
+Region_North Asia,0.001608144438157443
+Region_North,0.001539406325938024
+Region_Southeast Asia,0.001478194793290147
+Sub-Category_Appliances,0.0014431502525574973
+Region_Oceania,0.0014220261178709789
+Sub-Category_Paper,0.00122653439639076
+Ship Mode_Same Day,0.0011859363602974198
+Region_Central Asia,0.0011721515071303663
+Region_Caribbean,0.0007977004763141727
+State_England,0.0007540493073223687
+Market_Africa,0.0007159329208215038
+State_Northern Territory,0.0006167672317201256
+State_New South Wales,0.0005872166899505005
+State_Jawa Barat,0.0005831673771734825
+Region_East,0.0005731663798757609
+State_North Rhine-Westphalia,0.0005611287578810426
+State_Victoria,0.0005199773969222801
+State_Queensland,0.0005154631106461272
+State_Guangdong,0.0005034306970668269
+State_Ile-de-France,0.0005016980599465553
+State_Western Australia,0.00042763831130057385
+Region_West,0.00042486472811090447
+Region_EMEA,0.0004195627782598318
+State_Jakarta,0.00039774106964209343
+State_California,0.000387923094509806
+Market_EMEA,0.0003825764178123298
+Sub-Category_Supplies,0.0003678529440251313
+State_Panama,0.00036399157388404004
+State_National Capital,0.0003461852139152422
+State_Santo Domingo,0.00031546455835896047
+State_Managua,0.000308669801068052
+State_New York,0.0003061837257776852
+State_Ho Chí Minh City,0.00030572309033544343
+State_South Australia,0.0002954047515775845
+Sub-Category_Furnishings,0.00026998570846030316
+State_Kinshasa,0.0002648655967132978
+State_Distrito Federal,0.000250536081939705
+State_Texas,0.00023377608257722394
+State_Maharashtra,0.00022215582148089563
+State_Provence-Alpes-Côte d'Azur,0.00022176089632499596
+State_Buenos Aires,0.0002154236106009721
+State_São Paulo,0.0002050797824866322
+State_Pennsylvania,0.00019142911402663678
+Sub-Category_Envelopes,0.00018808502101015388
+State_Guatemala,0.00018286820270389174
+State_Nord-Pas-de-Calais,0.00018026425335799885
+State_Tamil Nadu,0.00017912429858319803
+Sub-Category_Art,0.00017847648855475652
+State_San Salvador,0.000177707022078141
+State_Wellington,0.00017407318760923884
+State_Bangkok,0.00016658916240539
+State_Australian Capital Territory,0.00016329407583908105
+State_Gauteng,0.00015916677013994918
+State_Shandong,0.0001508210438538733
+State_Northland,0.00014984572281537007
+State_Bavaria,0.00014579319681723096
+State_Zhejiang,0.0001394946536382269
+State_Lower Saxony,0.0001226355582970938
+State_Dhaka,0.00012169005376652408
+State_Francisco Morazán,0.00012108546854574807
+State_México,0.00011194453205702192
+State_Andalusía,0.00011103783940838193
+State_Berlin,0.00010989522127982208
+State_Michoacán,0.00010416375565185475
+State_Lazio,0.00010339191844963389
+State_Liaoning,0.00010116890925699812
+State_Haryana,9.319406386769476e-05
+State_Catalonia,8.591118424883982e-05
+State_Madrid,8.556345477054398e-05
+State_Apulia,8.547863008462979e-05
+State_Uttar Pradesh,8.479839931757522e-05
+State_Veracruz,8.075256721514202e-05
+State_Gujarat,7.998561948227033e-05
+State_Rhône-Alpes,7.964428838889614e-05
+State_Ohio,7.917571732319601e-05
+State_Yangon,7.871186365305886e-05
+State_Washington,7.857501276857912e-05
+State_Istanbul,7.648045630738119e-05
+State_Florida,7.607660440284972e-05
+State_Karnataka,7.522547462440942e-05
+State_North Holland,7.516435341402918e-05
+State_Al Qahirah,7.432208115258067e-05
+State_Oregon,7.432164588283053e-05
+State_Seoul,7.422246120985563e-05
+State_Jalisco,7.418968110338344e-05
+State_Jiangsu,7.240645216579051e-05
+State_Sinaloa,7.058987777962344e-05
+State_Pays de la Loire,7.056391647002381e-05
+State_Anhui,6.981133823604608e-05
+State_Auckland,6.918102283293726e-05
+State_Illinois,6.897001010074232e-05
+State_Baja California,6.698992002482728e-05
+State_Jawa Timur,6.671107660936784e-05
+State_Jizan,6.498105106793998e-05
+State_Vienna,6.393504932440856e-05
+State_Alsace,5.922362951816566e-05
+State_Guanajuato,5.540305281148605e-05
+State_Chelyabinsk,5.507910067944002e-05
+State_Castile and León,5.419231469281304e-05
+State_Kabul,5.372254627890032e-05
+State_Indiana,5.122654438384715e-05
+State_Chihuahua,5.049947995937137e-05
+State_Fujian,5.0089706142432214e-05
+State_Brittany,4.996009009759622e-05
+State_Poitou-Charentes,4.965474314911109e-05
+State_Valenciana,4.9475086203202884e-05
+State_South Holland,4.9096989231186826e-05
+State_Virginia,4.8710860883166463e-05
+State_Minas Gerais,4.840536290071154e-05
+State_Luanda,4.631799371492666e-05
+State_Sichuan,4.6103268933376384e-05
+State_Santiago,4.536710840340661e-05
+State_Otago,4.351518130863078e-05
+State_Tasmania,4.1641436826576217e-05
+State_Bahia,4.039380447939865e-05
+State_Querétaro,3.943210184451822e-05
+State_Cortés,3.756193299053798e-05
+State_Punjab,3.7433438656122695e-05
+State_Tamaulipas,3.734026838068431e-05
+State_O'Higgins,3.70992369691678e-05
+State_Beijing,3.647334665362741e-05
+State_Copperbelt,3.610458155457647e-05
+State_Utrecht,3.608660787553576e-05
+State_Languedoc-Roussillon,3.5843998048135756e-05
+State_Shanxi,3.5140983500960575e-05
+State_Rio de Janeiro,3.4850938585954394e-05
+State_Fars,3.376582040405485e-05
+Sub-Category_Labels,3.363244074823631e-05
+State_Rajasthan,3.3487607361255466e-05
+State_Waikato,3.276585010162103e-05
+State_Nuevo León,3.269850806205464e-05
+State_Yucatán,3.255197953006357e-05
+Region_Canada,3.240428304805299e-05
+State_Sicily,3.2378123573902834e-05
+State_Wisconsin,3.1749451742660366e-05
+State_Lima (city),3.156771823449599e-05
+State_Sumatera Utara,3.152567085137703e-05
+State_Santa Catarina,3.133544688535567e-05
+Market_Canada,3.099253439675631e-05
+State_Campania,2.860770263467486e-05
+State_Singapore,2.8591423529725062e-05
+State_Ankara,2.829457951220554e-05
+State_Utah,2.768942862031202e-05
+State_Pernambuco,2.7145161156327464e-05
+State_Tokyo,2.625675673978054e-05
+State_Heilongjiang,2.5301066448016103e-05
+State_Shanghai,2.505160042828589e-05
+State_Aquitaine,2.3518502301259564e-05
+State_Michigan,2.2722736927426474e-05
+State_Al Iskandariyah,2.228181653964755e-05
+State_Scotland,2.212645128399698e-05
+State_Hovedstaden,2.1964762636072693e-05
+State_Stockholm,2.182262708257131e-05
+State_Baden-Württemberg,2.1418795456208234e-05
+State_Santiago de Cuba,2.0988089395123163e-05
+State_Piedmont,2.0927983403574987e-05
+State_Puebla,2.070959061056767e-05
+State_Madhya Pradesh,2.064052281621915e-05
+State_Ar Riyad,2.0101585026229232e-05
+State_Alagoas,1.914895205186754e-05
+State_Kerala,1.913425400564566e-05
+State_Chittagong,1.9082633370726995e-05
+State_Hunan,1.8781281891808282e-05
+State_Makkah,1.875612011236675e-05
+State_Jawa Tengah,1.840344967583399e-05
+State_Rhineland-Palatinate,1.7849734895832768e-05
+State_Hubei,1.77659063239701e-05
+State_Kano,1.773187895270722e-05
+State_Carabobo,1.729481740878757e-05
+State_Limburg,1.7208395527571313e-05
+State_Nayarit,1.7201832124046287e-05
+State_Calabarzon,1.6564759064570066e-05
+State_Grand Casablanca,1.611629061198632e-05
+State_Bali,1.6112238517167626e-05
+State_Perak,1.586760139678542e-05
+State_Chiriquí,1.553787541421136e-05
+State_Georgia,1.551220417904252e-05
+State_Sumatera Selatan,1.5510044890205094e-05
+State_Izmir,1.5366424367449765e-05
+State_Camagüey,1.5143394249581973e-05
+State_Thủ Dô Hà Nội,1.5072781845445164e-05
+State_Lagos,1.4891430105229195e-05
+State_Västra Götaland,1.450915892687721e-05
+State_Yogyakarta,1.4324113320458071e-05
+State_North Carolina,1.40861023012317e-05
+State_Sindh,1.40008462646473e-05
+State_Dublin,1.3986571480587368e-05
+State_Durango,1.3808033571508328e-05
+State_Khyber Pakhtunkhwa,1.36816312698883e-05
+State_Lombardy,1.3338373368300756e-05
+State_Duarte,1.3296851354692159e-05
+State_Cork,1.3196625809755935e-05
+State_Midi-Pyrénées,1.3074112851748781e-05
+State_Arizona,1.2696161318458144e-05
+State_Maranhão,1.2429772102856503e-05
+Sub-Category_Fasteners,1.1931468050661102e-05
+State_Hesse,1.1394861763237408e-05
+State_Jilin,1.1289474431234802e-05
+State_Ontario,1.0705138178058912e-05
+State_Alabama,1.0547145849950423e-05
+State_Coahuila,1.0371482941018086e-05
+State_Adana,9.971333566767598e-06
+State_Andhra Pradesh,9.954215969067828e-06
+State_Upper Austria,9.666242830148627e-06
+State_Parana,9.393896610815058e-06
+State_Bissau,9.31456968628741e-06
+State_Sabah,9.204861063066408e-06
+State_Delhi,9.002038821464646e-06
+State_Canterbury,8.946811781780555e-06
+State_Veneto,8.67195106064846e-06
+State_Chhattisgarh,8.661607477006863e-06
+State_Louisiana,8.399078829268746e-06
+State_Dagestan,8.374184614396922e-06
+State_South Denmark,8.346701216750556e-06
+State_Granma,8.321991128260307e-06
+State_Central Luzon,8.25261146655481e-06
+State_Yunnan,7.838300113500249e-06
+State_Jerusalem,7.815292603003952e-06
+State_León,7.636320255120306e-06
+State_Ouest,7.579836079023293e-06
+State_Mecklenburg-Vorpommern,7.4227400850536855e-06
+State_Gilan,7.348826854717034e-06
+State_Mendoza,7.319541199744275e-06
+State_Bogota,7.165340222696608e-06
+State_Ibaraki,7.059740439575868e-06
+State_West Bengal,6.988132448921579e-06
+State_Emilia-Romagna,6.969036403198775e-06
+State_Centre,6.903952504586614e-06
+State_Upper Normandy,6.902229164707499e-06
+State_Saxony,6.65324203727628e-06
+State_Oklahoma,6.6477489890720135e-06
+State_Telangana,6.5110351297732495e-06
+State_Atlántico,6.427857649131e-06
+State_Colorado,6.372022417902953e-06
+State_Massachusetts,6.339920791374659e-06
+State_Tianjin,6.141620860267558e-06
+State_Tennessee,5.956904234608418e-06
+State_Oita,5.931458417288557e-06
+State_Oyo,5.914414881303251e-06
+State_Rabat-Salé-Zemmour-Zaer,5.844045455955309e-06
+State_North Brabant,5.734462645938603e-06
+State_Nevada,5.665442380101235e-06
+State_Bulawayo,5.656504773348463e-06
+State_Baghdad,5.5386965646089225e-06
+State_Kampala,5.289207123492135e-06
+State_Atlántida,5.142952581826812e-06
+State_San Fernando,5.021199359957983e-06
+State_Uusimaa,4.7547774041499125e-06
+State_Pinar del Río,4.730721334398994e-06
+State_Dar Es Salaam,4.620558131280802e-06
+State_Bihar,4.589564257094451e-06
+State_Kuala Lumpur,4.522214125083183e-06
+State_Ceará,4.4740422013272655e-06
+State_Gunma,4.366544889204229e-06
+State_Gyeonggi,4.338659915992971e-06
+State_Hebei,4.327782869958479e-06
+State_Colima,4.2226877881356765e-06
+State_Selangor,4.209145508272908e-06
+State_Guangxi,4.14218848818532e-06
+State_Lisboa,4.1199113922566645e-06
+State_Saitama,4.090490393497881e-06
+State_Sofiya-Grad,3.999923452216516e-06
+State_Lagunes,3.996129543532411e-06
+State_Harare,3.9077676251584365e-06
+State_Tuscany,3.89049733098661e-06
+State_San Luis Potosí,3.787745206398223e-06
+State_Holguín,3.7665769546388806e-06
+State_Anambra,3.6477061006681713e-06
+State_Katanga,3.5269322090593125e-06
+State_Kalimantan Timur,3.432166303049818e-06
+State_Chaco,3.3728203141212857e-06
+State_Paraíba,3.3348178855993844e-06
+State_Banaadir,3.323147605667907e-06
+State_Colón,3.3128179495261884e-06
+State_Balearic Islands,3.27325344599876e-06
+State_Zürich,3.2331373309288403e-06
+State_Bursa,3.0939749937195225e-06
+State_Arkansas,3.068086761005492e-06
+State_Fès-Boulemane,3.058565820311641e-06
+State_Eastern Cape,2.939861077843726e-06
+State_Picardy,2.9019921782727752e-06
+State_Phnom Penh,2.901139448569884e-06
+State_Santa Fe,2.896636669320534e-06
+State_San Pedro de Macorís,2.855615084233151e-06
+State_Villa Clara,2.8446931589563934e-06
+State_Kharkiv,2.8164434928569395e-06
+State_Enugu,2.799269808693344e-06
+State_Western Cape,2.7670960496191676e-06
+State_Rhode Island,2.73622007689403e-06
+State_Niamey,2.7316957481841287e-06
+State_New Jersey,2.7215990520694307e-06
+State_Matagalpa,2.714071507349438e-06
+State_Cienfuegos,2.6972701893448904e-06
+State_Rio Grande do Sul,2.636396261015692e-06
+State_Las Tunas,2.5837721308582414e-06
+State_Schleswig-Holstein,2.5521786793278853e-06
+State_Al Basrah,2.517005296580173e-06
+State_Bremen,2.459871791367052e-06
+State_Carinthia,2.4545704830318073e-06
+State_Chongqing,2.384159643503868e-06
+State_Analamanga,2.337289240496625e-06
+State_Khartoum,2.317114258965276e-06
+State_Shizuoka,2.2832698644534296e-06
+State_Thuringia,2.265021851008391e-06
+State_Panevezys,2.264941709035765e-06
+State_Dnipropetrovs'k,2.238354282377836e-06
+State_Provincia de Buenos Aires,2.1959964184301286e-06
+State_Basque Country,2.0731314632425902e-06
+State_Sevastopol',2.0139414523595747e-06
+State_Quebec,2.0057653293256425e-06
+State_Mississippi,1.974068176046887e-06
+State_Dakar,1.9702652992100786e-06
+State_Yaroslavl',1.9538677266173524e-06
+State_Rivers,1.9496929958209857e-06
+State_Castile-La Mancha,1.9445603942128057e-06
+State_Bashkortostan,1.894177708937744e-06
+State_Sistan Va Baluchestan,1.856176557445559e-06
+State_Silesia,1.8178158607022957e-06
+State_Santa Ana,1.7918818378704873e-06
+State_Central,1.7466351032961196e-06
+State_Quezaltenango,1.693690043819961e-06
+State_Federal District,1.64635093781341e-06
+State_Northern Mindanao,1.6461181302695171e-06
+State_Delaware,1.6364322040426587e-06
+State_Denizli,1.6258384579467717e-06
+State_Bishkek,1.6210978929062056e-06
+State_Quintana Roo,1.613901748214333e-06
+State_Razavi Khorasan,1.5744644257424834e-06
+State_Negeri Sembilan,1.541496847226543e-06
+State_Choluteca,1.510133772430089e-06
+State_Limousin,1.483297977739519e-06
+State_Campeche,1.4284631612924466e-06
+State_Shaanxi,1.410572761694886e-06
+State_Kigali,1.3820415959180157e-06
+State_Antioquia,1.3793324264463527e-06
+State_Guantánamo,1.3578744776086698e-06
+State_Eskisehir,1.2904435317256584e-06
+State_Espírito Santo,1.2550365977620005e-06
+State_Thies,1.208181427486084e-06
+State_Kermanshah,1.1987836086409959e-06
+State_Kaduna,1.1681696706770165e-06
+State_Osaka,1.1430674936007882e-06
+State_Donetsk,1.1300949893561478e-06
+State_Iasi,1.1284909189511273e-06
+State_Brandenburg,1.1245227851074397e-06
+State_Arbil,1.123419212453223e-06
+State_Kwazulu-natal,1.0992698741356737e-06
+State_Nord,1.0972446466670209e-06
+State_Gelderland,1.0406232385969984e-06
+State_Alberta,1.0368912374375362e-06
+State_Minnesota,1.02957422494936e-06
+State_Balikesir,1.0207606884728622e-06
+State_Adiyaman,9.881023551767858e-07
+State_Sulawesi Tenggara,9.71729647709695e-07
+State_Boyacá,9.70874190627738e-07
+State_Gulu,9.66915438806879e-07
+State_Henan,9.64664876196347e-07
+State_Ash Sharqiyah,9.46227057762852e-07
+State_Mersin,9.458226199321785e-07
+State_Kwara,9.351752716011494e-07
+State_Orientale,9.140543267831816e-07
+State_Lusaka,9.050408055634165e-07
+State_Ucayali,9.007243113809175e-07
+State_Escuintla,8.993181684027176e-07
+State_Arkhangel'sk,8.760454806056178e-07
+State_Lebap,8.58931848934398e-07
+State_Mures,8.192163421267092e-07
+State_Gyeongsangnam,8.176067480106551e-07
+State_Murcia,8.156649342328956e-07
+State_La Vega,7.982178515337364e-07
+State_Niger,7.894947196580632e-07
+State_Greater Accra,7.810889814808999e-07
+State_Vilnius,7.731248339807019e-07
+State_Sonora,7.672064226497457e-07
+State_Riau,7.297067763139902e-07
+State_Kahramanmaras,7.169469724162462e-07
+State_Distrito Capital,7.068567065245264e-07
+State_Manisa,7.030606419789292e-07
+State_Qom,6.908306222556806e-07
+State_Marrakech-Tensift-El Haouz,6.894220128731464e-07
+State_Nusa Tenggara Timur,6.81508006248662e-07
+State_Morelos,6.766481349670745e-07
+State_Hatay,6.346462965633834e-07
+State_Yoro,6.301871218301877e-07
+State_Bolivar,6.215452762333725e-07
+State_Bay of Plenty,6.160520863627349e-07
+State_Masaya,6.033657951273182e-07
+State_Hims,6.02335376310079e-07
+State_Kentucky,6.006081083501042e-07
+State_Western Visayas,5.947131684462322e-07
+State_Sumy,5.879135705712842e-07
+State_Saxony-Anhalt,5.829505772196604e-07
+State_Zulia,5.739923827054926e-07
+State_Nord-Ouest,5.624110894859848e-07
+State_Gaziantep,5.542516506771409e-07
+State_Ninawa,5.514331067168628e-07
+State_Pichincha,5.450623665162703e-07
+State_Antwerp,5.358944098951682e-07
+State_Huehuetenango,5.317212391398e-07
+State_Saint Michael,5.217442963036764e-07
+State_Hamburg,5.140421188418177e-07
+State_Lorraine,4.893993752345296e-07
+State_Astana,4.760200015509232e-07
+State_Ta'izz,4.698442495670245e-07
+State_Maryland,4.6814412380438164e-07
+State_Botosani,4.6498635736319635e-07
+State_Masovia,4.5480063710267e-07
+State_Konya,4.4851712629663665e-07
+State_Antalya,4.469808567669399e-07
+State_Plateau,4.327198352367282e-07
+State_La Romana,4.2936953077766135e-07
+State_Missouri,4.2436522103498565e-07
+State_Bamako,4.128759470063538e-07
+State_Overijssel,3.964819373039497e-07
+State_La Libertad,3.9086191400897845e-07
+State_Pomerania,3.896141520457645e-07
+State_Tekirdag,3.8673224292175883e-07
+State_Connecticut,3.796435792992342e-07
+State_Portuguesa,3.6479043625626687e-07
+State_Goiás,3.598341680025517e-07
+State_Artibonite,3.4935866345272674e-07
+State_Khuzestan,3.4762590899483626e-07
+State_Amazonas,3.4553227374340184e-07
+State_Gisborne,3.438073382557983e-07
+State_Alger,3.1941584019934193e-07
+State_Namur,3.1324779075029104e-07
+State_Kasai-Oriental,2.995558274871522e-07
+State_Budapest,2.961102133981906e-07
+State_Anzoátegui,2.953303547781003e-07
+State_Almaty City,2.9431217006779676e-07
+State_Kaunas,2.93481114463136e-07
+State_Hainaut,2.9057625854771075e-07
+State_Osmaniye,2.8994947274009955e-07
+State_Chimaltenango,2.872716143298072e-07
+State_Bie,2.8565160891304887e-07
+State_Porto,2.8411084829244165e-07
+State_Mato Grosso,2.810819083782875e-07
+State_Drenthe,2.709279297855114e-07
+State_Tỉnh Cần Thơ,2.537516013822615e-07
+State_North-West,2.4408548578311186e-07
+State_Ivanovo,2.4009110486122743e-07
+State_Voronezh,2.3542951148412148e-07
+State_Osun,2.351298644015215e-07
+State_Brest,2.3369773739327502e-07
+State_Matanzas,2.2365267688055553e-07
+State_Lublin,2.1736303247406634e-07
+State_Rio Grande do Norte,2.1628999612811828e-07
+State_Sardinia,2.1606035207592297e-07
+State_Champagne-Ardenne,2.1361752597872304e-07
+State_Hawke's Bay,2.1262061437055273e-07
+State_Groningen,2.0706493390761005e-07
+State_Sonsonate,2.046258455470451e-07
+State_Nelson,1.9559391174043104e-07
+State_Hrodna,1.9503923574278115e-07
+State_Burgundy,1.9240694351949564e-07
+State_Belgorod,1.9124714719131006e-07
+State_Chaguanas,1.846287785960707e-07
+State_Pavlodar,1.8335139837856068e-07
+State_Puno,1.8140309286125475e-07
+State_Corrientes,1.800691256907583e-07
+State_Jharkhand,1.7488506586668392e-07
+State_Cross River,1.7134561358139315e-07
+State_Zanjan,1.6731226164680397e-07
+State_Aksaray,1.6678920483906589e-07
+State_Edo,1.6537500546302702e-07
+State_Borno,1.6131206615257823e-07
+State_Pará,1.5891836488009623e-07
+State_Mazandaran,1.585131083332398e-07
+State_South Kivu,1.5807270530824157e-07
+State_Chiapas,1.580568635410954e-07
+State_Delta,1.5017192383862203e-07
+State_Lubusz,1.4579543052363925e-07
+State_Daejeon,1.4491138162496552e-07
+State_Plovdiv,1.4473059568962682e-07
+State_San Juan,1.4192596396575348e-07
+State_Saint-Louis,1.3622012044549687e-07
+State_Sumatera Barat,1.3316425671608225e-07
+State_Bandundu,1.2907183709151635e-07
+State_Wales,1.2310078474880145e-07
+State_Kayseri,1.19807041435368e-07
+State_Cluj,1.1503426913255129e-07
+State_Irkutsk,1.1330119812507809e-07
+State_Córdoba,1.1245233448101998e-07
+State_East Flanders,1.092046452196294e-07
+State_Greater Poland,1.0853088732782975e-07
+State_Manawatu-Wanganui,1.065546585090081e-07
+State_Cundinamarca,9.974900864872457e-08
+State_Jiangxi,9.439585134854225e-08
+State_Hyogo,9.393654590798799e-08
+State_Beni,9.0866602653578e-08
+State_Sancti Spíritus,8.731249354286988e-08
+State_Nebraska,8.035449446632062e-08
+State_Guayas,7.930941091719981e-08
+State_Adamaoua,7.628280361130823e-08
+State_Ceuta,7.588466633586024e-08
+State_Bolu,7.403606744048534e-08
+State_Hong Kong,6.314573580676857e-08
+State_Abia,5.972268532856597e-08
+State_Lorestan,5.9182274497795904e-08
+State_Esfahan,5.909143439168578e-08
+State_Papua,5.8095884960184706e-08
+State_Samsun,5.5234748902775964e-08
+State_Diyarbakir,5.470436892561193e-08
+State_Chiba,5.434315520109246e-08
+State_Al Bahr Al Ahmar,5.239806697273039e-08
+State_Northern,5.123967574553994e-08
+State_Coast,5.123345418609408e-08
+State_Katsina,5.039456091802769e-08
+State_Souss-Massa-Draâ,4.8858659665937324e-08
+State_Ondo,4.8780335676894444e-08
+State_Meknès-Tafilalet,4.512726335403337e-08
+State_Al Madinah,3.974487401032631e-08
+State_Namangan,3.832135337228152e-08
+State_Mary,3.374580087577435e-08
+State_Norte de Santander,3.3697449493548855e-08
+State_Saint Catherine,3.313723371993466e-08
+State_Ashgabat,3.04397817508424e-08
+State_Tehran,3.004029060519855e-08
+State_Sofala,2.9639742783654375e-08
+State_Aragua,2.939468620557897e-08
+State_Estelí,2.8906034681061975e-08
+State_Tabasco,2.8764848961088605e-08
+State_Al Qadisiyah,2.7325556548659107e-08
+State_Tanger-Tétouan,2.700630512780866e-08
+State_Yaracuy,2.6832495833510186e-08
+State_Ivano-Frankivsk,2.6784995925670493e-08
+State_Ouémé,2.674366305273224e-08
+State_Martinique,2.5178149249288665e-08
+State_South Dublin,2.4762209776669408e-08
+State_Chisinau,2.1497095252222673e-08
+State_Calabria,2.1466618727512426e-08
+State_South Carolina,2.081241580878804e-08
+State_Nairobi,1.9539679485526292e-08
+State_Lodz,1.919689754035739e-08
+State_Vinnytsya,1.795093339623309e-08
+State_Assam,1.7058445016603956e-08
+State_Taipei City,1.6554183909361687e-08
+State_West Flanders,1.635590043433895e-08
+State_Valparaíso,1.5320259475398116e-08
+State_Baki,1.2984113337405639e-08
+State_Kasai-Occidental,1.2619474768187292e-08
+State_Tbilisi,1.2523284082390404e-08
+State_Qaraghandy,1.2386130378714252e-08
+State_Federation of Bosnia and Herzegovina,1.1606942262561864e-08
+State_'Amman,1.1523128841804422e-08
+State_Santa Cruz,1.1431275810423961e-08
+State_Erzurum,1.0467951306941275e-08
+State_Maine,1.014893646121744e-08
+State_Babil,8.943203161970207e-09
+State_Tel Aviv,8.88200286016169e-09
+State_Rogaland,8.652692491850298e-09
+State_Miranda,8.557380508232837e-09
+State_Nakhon Ratchasima,7.603128302508726e-09
+State_Constantine,7.112532227535866e-09
+State_Hormozgan,7.0953743529031246e-09
+State_Trabzon,7.040453761471885e-09
+State_Batman,7.005350379833388e-09
+State_L'viv,6.957407007276057e-09
+State_Sanliurfa,6.386410103241934e-09
+State_Lower Normandy,6.31828192108672e-09
+State_Van,6.204627567812281e-09
+State_Busan,6.139848242946404e-09
+State_Chaouia-Ouardigha,5.261503542942454e-09
+State_Junín,5.173931548799389e-09
+State_Gharb-Chrarda-Béni Hssen,4.530796475221006e-09
+State_Cordillera,4.449458499610805e-09
+State_Sulawesi Utara,4.303255625292725e-09
+State_Chinandega,4.246344749372842e-09
+State_Al Fayyum,4.211240742785213e-09
+State_Ciego de Ávila,4.059339834812074e-09
+State_Aydin,3.819386187847487e-09
+State_Montevideo,3.706789833227658e-09
+State_Tambov,3.4815018813123135e-09
+State_Taranaki,3.111189046366693e-09
+State_British Columbia,2.720292597630158e-09
+State_Arusha,2.6190714658868984e-09
+State_Prague,2.4182328733569194e-09
+State_Qashqadaryo,2.2903003595293055e-09
+State_Southern,2.1956215902465517e-09
+State_Nouakchott,2.1314469730139344e-09
+State_Entre Ríos,2.0461190748672364e-09
+State_Manica,1.9747016374820656e-09
+State_Santander,1.962498989053561e-09
+State_Kocaeli,1.8279123352873877e-09
+State_F.C.T.,1.7163363512802764e-09
+State_Ra's Al Khaymah,1.4916681851706676e-09
+State_Akwa Ibom,1.0548680054665882e-09
+State_Oran,9.560779695177418e-10
+State_Haifa,9.178590440270007e-10
+State_Equateur,8.949233319528539e-10
+State_Tocantins,8.94373490338374e-10
+State_Kaliningrad,8.834890083155819e-10
+State_Ogun,8.115714227542244e-10
+State_New Mexico,5.741111474963566e-10
+State_Jinja,4.44224793782842e-10
+State_Plzen,4.0948560321436094e-10
+State_Kigoma,3.6776942504127976e-10
+State_Woqooyi Galbeed,3.4822262434294606e-10
+State_Benue,2.6319199299389934e-10
+State_Sivas,2.2741888451511823e-10
+State_Ardabil,1.5264810806538204e-10
+State_Iowa,2.8717820774841495e-12
+State_'Asir,0.0
+State_Vaud,0.0
+State_Poltava,0.0
+State_Vratsa,0.0
+State_Varna,0.0
+State_Puducherry,0.0
+State_Vladimir,0.0
+State_Primorsko-Goranska,0.0
+State_Vermont,0.0
+State_Sokoto,0.0
+State_Táchira,0.0
+State_Yambol,0.0
+State_Pahang,0.0
+State_Vest-Agder,0.0
+State_Yamaguchi,0.0
+State_Värmland,0.0
+State_Potosí,0.0
+State_Prahova,0.0
+State_Usti nad Labem,0.0
+State_Vallee Du Bandama,0.0
+State_Vargas,0.0
+State_Peravia,0.0
+State_Yalova,0.0
+State_Skikda,0.0
+State_Piauí,0.0
+State_Vrancea,0.0
+State_Pernik,0.0
+State_South Dakota,0.0
+State_South Chungcheong,0.0
+State_Usak,0.0
+State_Uppsala,0.0
+State_Piura,0.0
+State_Uttarakhand,0.0
+State_Valcea,0.0
+State_Skåne,0.0
+State_Podlaskie,0.0
+State_Volyn,0.0
+State_Umbria,0.0
+State_Valle del Cauca,0.0
+State_Plateaux,0.0
+State_Ulsan,0.0
+State_Pleven,0.0
+State_Yazd,0.0
+State_Ulaanbaatar,0.0
+State_Pazardzhik,0.0
+State_Podgorica,0.0
+State_Vlorë,0.0
+State_Sliven,0.0
+State_Stara Zagora,0.0
+State_Tlemcen,0.0
+State_Pwani,0.0
+State_Shkodër,0.0
+State_Zealand,0.0
+State_White Nile,0.0
+State_Santiago del Estero,0.0
+State_Zeeland,0.0
+State_Surxondaryo,0.0
+State_Zhambyl,0.0
+State_Shumen,0.0
+State_Sibiu,0.0
+State_Sylhet,0.0
+State_Södermanland,0.0
+State_Tabora,0.0
+State_Tabuk,0.0
+State_Tadla-Azilal,0.0
+State_Western,0.0
+State_West Virginia,0.0
+State_Southland,0.0
+State_Tanga,0.0
+State_San Luis,0.0
+State_Tarapacá,0.0
+State_San Cristóbal,0.0
+State_Tarija,0.0
+State_Sarawak,0.0
+State_Saskatchewan,0.0
+State_Tyrol,0.0
+State_Zaporizhzhya,0.0
+State_Stavropol',0.0
+State_Zagrebacka,0.0
+State_St. Gallen,0.0
+State_Styria,0.0
+State_Suceava,0.0
+State_Zacatecas,0.0
+State_Sucre,0.0
+State_Zambezia,0.0
+State_Setúbal,0.0
+State_Sud,0.0
+State_Sud-Ouest,0.0
+State_Suhaj,0.0
+State_Sergipe,0.0
+State_Zamfara,0.0
+State_Semnan,0.0
+State_Sulawesi Tengah,0.0
+State_Shinyanga,0.0
+State_Wyoming,0.0
+State_Splitsko-Dalmatinska,0.0
+State_Savanes,0.0
+State_Satu Mare,0.0
+State_Salzburg,0.0
+State_Salta,0.0
+State_Salah Ad Din,0.0
+State_Tartumaa,0.0
+State_Yobe,0.0
+State_Rajshahi,0.0
+State_Šiauliai,0.0
+State_Tizi Ouzou,0.0
+State_Tochigi,0.0
+State_South Khorasan,0.0
+State_Tokat,0.0
+State_Quindío,0.0
+State_Tolima,0.0
+State_Žilina,0.0
+State_Tottori,0.0
+State_Qostanay,0.0
+State_Trengganu,0.0
+State_Trentino-Alto Adige,0.0
+State_Tripura,0.0
+State_Sirnak,0.0
+State_Tunis,0.0
+State_Qinghai,0.0
+State_Vitsyebsk,0.0
+State_Qina,0.0
+State_Qazvin,0.0
+State_Tipaza,0.0
+State_Timis,0.0
+State_Red Sea,0.0
+State_Ruvuma,0.0
+State_Taza-Al Hoceima-Taounate,0.0
+State_Zhytomyr,0.0
+State_Saida,0.0
+State_Saga,0.0
+State_Sidi Bel Abbes,0.0
+State_Saarland,0.0
+State_Ziguinchor,0.0
+State_Zinder,0.0
+State_Río Negro,0.0
+State_Roraima,0.0
+State_Sikasso,0.0
+State_Rondônia,0.0
+State_Rivne,0.0
+State_Ternopil',0.0
+State_Rivera,0.0
+State_Tete,0.0
+State_Risaralda,0.0
+State_Xinjiang Uygur,0.0
+State_Rift Valley,0.0
+State_Siirt,0.0
+State_Yevrey,0.0
+State_Abuja Capital Territory,0.0
+State_Oslo,0.0
+State_Dà Nang,0.0
+State_Cojedes,0.0
+State_Constanta,0.0
+State_Corsica,0.0
+State_Corum,0.0
+State_Cuscatlán,0.0
+State_Daegu,0.0
+State_Dayr Az Zawr,0.0
+State_Dhi Qar,0.0
+State_Diana,0.0
+State_Diffa,0.0
+State_Dire Dawa,0.0
+State_District of Columbia,0.0
+State_Dix-Huit Montagnes,0.0
+State_Diyala,0.0
+State_Djelfa,0.0
+State_Djibouti,0.0
+State_Dolj,0.0
+State_Donga,0.0
+State_Doukkala-Abda,0.0
+State_Coimbra,0.0
+State_Cochabamba,0.0
+State_Cidade De Maputo,0.0
+State_Catamarca,0.0
+State_Caldas,0.0
+State_Callao,0.0
+State_Canakkale,0.0
+State_Canelones,0.0
+State_Cantabria,0.0
+State_Caquetá,0.0
+State_Caras-Severin,0.0
+State_Casanare,0.0
+State_Central Equatoria,0.0
+State_Chuquisaca,0.0
+State_Central Jutland,0.0
+State_Centrale,0.0
+State_Cesar,0.0
+State_Chandigarh,0.0
+State_Cherkasy,0.0
+State_Chernihiv,0.0
+State_Chocó,0.0
+State_Chubut,0.0
+State_Durrës,0.0
+State_Eastern,0.0
+State_Harjumaa,0.0
+State_Ebonyi,0.0
+State_Geneva,0.0
+State_Gezira,0.0
+State_Giurgiu,0.0
+State_Golestan,0.0
+State_Gombe,0.0
+State_Gorj,0.0
+State_Grad Zagreb,0.0
+State_Granada,0.0
+State_Grand Gedeh,0.0
+State_Guadeloupe,0.0
+State_Guelma,0.0
+State_Guelmim-Es Semara,0.0
+State_Guerrero,0.0
+State_Guizhou,0.0
+State_Guárico,0.0
+State_Gyor,0.0
+State_Hainan,0.0
+State_Hajdu-Bihar,0.0
+State_Halland,0.0
+State_Gansu,0.0
+State_Gangwon,0.0
+State_Galway,0.0
+State_Finland Proper,0.0
+State_Edirne,0.0
+State_Elazig,0.0
+State_Elbasan,0.0
+State_Espaillat,0.0
+State_Est,0.0
+State_Estuaire,0.0
+State_Extremadura,0.0
+State_Extreme-Nord,0.0
+State_Flemish Brabant,0.0
+State_Galicia,0.0
+State_Franche-Comté,0.0
+State_Free State,0.0
+State_Friesland,0.0
+State_Friuli-Venezia Giulia,0.0
+State_Fromager,0.0
+State_Fukui,0.0
+State_Fukuoka,0.0
+State_Galati,0.0
+State_Cajamarca,0.0
+State_Cabo Delgado,0.0
+State_Buzau,0.0
+State_Buskerud,0.0
+State_Aomori,0.0
+State_Aqmola,0.0
+State_Ar Raqqah,0.0
+State_Arad,0.0
+State_Arauca,0.0
+State_Ardahan,0.0
+State_Arequipa,0.0
+State_Arges,0.0
+State_Arica y Parinacota,0.0
+State_Artemisa,0.0
+State_Ashanti,0.0
+State_Astrakhan',0.0
+State_Asturias,0.0
+State_Asunción,0.0
+State_Aswan,0.0
+State_Asyut,0.0
+State_Atacama,0.0
+State_Atakora,0.0
+State_Atlantique,0.0
+State_Antofagasta,0.0
+State_Anseba,0.0
+State_Annaba,0.0
+State_Al Jawf,0.0
+State_Acre,0.0
+State_Ad Dawhah,0.0
+State_Adamawa,0.0
+State_Afyonkarahisar,0.0
+State_Aichi,0.0
+State_Al Buhayrah,0.0
+State_Al Gharbiyah,0.0
+State_Al Hudaydah,0.0
+State_Al Marqab,0.0
+State_Andijan,0.0
+State_Al Minufiyah,0.0
+State_Al Minya,0.0
+State_Alibori,0.0
+State_Almaty,0.0
+State_Amapá,0.0
+State_Amasya,0.0
+State_Amur,0.0
+State_Ancash,0.0
+State_Atsimo-Andrefana,0.0
+State_Atsinanana,0.0
+State_Auvergne,0.0
+State_Borgou,0.0
+State_Bern,0.0
+State_Bihor,0.0
+State_Bingol,0.0
+State_Biobio,0.0
+State_Bistrita-Nasaud,0.0
+State_Bitola,0.0
+State_Boeny,0.0
+State_Bolívar,0.0
+State_Braga,0.0
+State_Bengkulu,0.0
+State_Braila,0.0
+State_Brasov,0.0
+State_Brussels,0.0
+State_Bryansk,0.0
+State_Bujumbura-Mairie,0.0
+State_Bur Sa'id,0.0
+State_Burgas,0.0
+State_Bushehr,0.0
+State_Benguela,0.0
+State_Bekes,0.0
+State_Aveiro,0.0
+State_Bani Suwayf,0.0
+State_Ayacucho,0.0
+State_Azuay,0.0
+State_Bacau,0.0
+State_Baja California Sur,0.0
+State_Balti,0.0
+State_Baluchistan,0.0
+State_Banghazi,0.0
+State_Bangui,0.0
+State_Banská Bystrica,0.0
+State_Bejaia,0.0
+State_Barahona,0.0
+State_Bas-Congo,0.0
+State_Basel-Stadt,0.0
+State_Basilicata,0.0
+State_Batna,0.0
+State_Bauchi,0.0
+State_Bechar,0.0
+State_Beirut,0.0
+State_Hamadan,0.0
+State_Haut-Sassandra,0.0
+State_Osjecko-Baranjska,0.0
+State_Moquegua,0.0
+State_Mashonaland West,0.0
+State_Matabeleland North,0.0
+State_Mato Grosso do Sul,0.0
+State_Matruh,0.0
+State_Mayabeque,0.0
+State_Maysan,0.0
+State_Mbeya,0.0
+State_Medea,0.0
+State_Mehedinti,0.0
+State_Melilla,0.0
+State_Meta,0.0
+State_Mie,0.0
+State_Misiones,0.0
+State_Misratah,0.0
+State_Monagas,0.0
+State_Mono,0.0
+State_Monseñor Nouel,0.0
+State_Montana,0.0
+State_Montserrado,0.0
+State_Maseru,0.0
+State_Marlborough,0.0
+State_Markazi,0.0
+State_Maniema,0.0
+State_Magallanes y Antártica Chilena,0.0
+State_Magdalena,0.0
+State_Malanje,0.0
+State_Malatya,0.0
+State_Maluku,0.0
+State_Manabi,0.0
+State_Mandoul,0.0
+State_Manicaland,0.0
+State_Manipur,0.0
+State_Maritime,0.0
+State_Manitoba,0.0
+State_Manzini,0.0
+State_Maputo,0.0
+State_Mara,0.0
+State_Maradi,0.0
+State_Maramures,0.0
+State_Marche,0.0
+State_Mardin,0.0
+State_Mopti,0.0
+State_Moravian-Silesian,0.0
+State_Haute-Matsiatra,0.0
+State_Morogoro,0.0
+State_Ningxia,0.0
+State_Nitra,0.0
+State_North Dakota,0.0
+State_North Lebanon,0.0
+State_Nova Scotia,0.0
+State_Novgorod,0.0
+State_Novosibirsk,0.0
+State_Nueva Esparta,0.0
+State_Nusa Tenggara Barat,0.0
+State_Nyanza,0.0
+State_Nzérékoré,0.0
+State_Oaxaca,0.0
+State_Odisha,0.0
+State_Okayama,0.0
+State_Olomouc,0.0
+State_Opole,0.0
+State_Ordu,0.0
+State_Oruro,0.0
+State_Osh,0.0
+State_Niassa,0.0
+State_Niari,0.0
+State_Newfoundland,0.0
+State_Nagano,0.0
+State_Moscow,0.0
+State_Mostaganem,0.0
+State_Mpumalanga,0.0
+State_Mtwara,0.0
+State_Muharraq,0.0
+State_Mwanza,0.0
+State_Mykolayiv,0.0
+State_Mérida,0.0
+State_Nagasaki,0.0
+State_New Hampshire,0.0
+State_Namibe,0.0
+State_Nampula,0.0
+State_Nangarhar,0.0
+State_Nariño,0.0
+State_Navarra,0.0
+State_Neamt,0.0
+State_Neuquén,0.0
+State_Nevsehir,0.0
+State_Luhans'k,0.0
+State_Lucerne,0.0
+State_Los Rios,0.0
+State_Los Lagos,0.0
+State_Isla de la Juventud,0.0
+State_Isparta,0.0
+State_Jambi,0.0
+State_Jammu and Kashmir,0.0
+State_Jeju,0.0
+State_Jizzakh,0.0
+State_Jubbada Hoose,0.0
+State_Jujuy,0.0
+State_Kabardino-Balkariya,0.0
+State_Kabarole,0.0
+State_Kafr Ash Shaykh,0.0
+State_Kagawa,0.0
+State_Kalimantan Barat,0.0
+State_Kalimantan Selatan,0.0
+State_Kaluga,0.0
+State_Kanagawa,0.0
+State_Kandahar,0.0
+State_Kankan,0.0
+State_Kansas,0.0
+State_Ishikawa,0.0
+State_Iringa,0.0
+State_Irbid,0.0
+State_Huambo,0.0
+State_Hedmark,0.0
+State_Hidalgo,0.0
+State_Hirat,0.0
+State_Hiroshima,0.0
+State_Hokkaido,0.0
+State_Homyel',0.0
+State_Hordaland,0.0
+State_Hradec Kralove,0.0
+State_Huila,0.0
+State_Inner Mongolia,0.0
+State_Hunedoara,0.0
+State_Ica,0.0
+State_Idaho,0.0
+State_Igdir,0.0
+State_Ilam,0.0
+State_Imereti,0.0
+State_Imo,0.0
+State_Inhambane,0.0
+State_Kara,0.0
+State_Karbala',0.0
+State_Kars,0.0
+State_Liguria,0.0
+State_La Pampa,0.0
+State_La Paz,0.0
+State_La Rioja,0.0
+State_Lacs,0.0
+State_Abruzzi,0.0
+State_Lambayeque,0.0
+State_Lara,0.0
+State_Liberec,0.0
+State_Lima,0.0
+State_Kutahya,0.0
+State_Aceh,0.0
+State_Limpopo,0.0
+State_Litoral,0.0
+State_Littoral,0.0
+State_Liège,0.0
+State_Ljubljana,0.0
+State_Loreto,0.0
+State_Lori,0.0
+State_Kymenlaakso,0.0
+State_Kumanovo,0.0
+State_Kassala,0.0
+State_Khulna,0.0
+State_Kastamonu,0.0
+State_Kayes,0.0
+State_Kerman,0.0
+State_Khatlon,0.0
+State_Kherson,0.0
+State_Khmel'nyts'kyy,0.0
+State_Khomas,0.0
+State_Khorezm,0.0
+State_Khánh Hòa,0.0
+State_Korçë,0.0
+State_Kilimanjaro,0.0
+State_Kilis,0.0
+State_Kindia,0.0
+State_Kirovohrad,0.0
+State_Kirsehir,0.0
+State_Kiên Giang,0.0
+State_Klaipeda,0.0
+State_Kordestan,0.0
+State_Laghouat,0.0
