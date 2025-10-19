@@ -1,0 +1,1 @@
+I combined the most impactful and related features with our target from 5 tables (customer, order, order_detail, product, shipping), one-hot coded the category column, then printed it out as a csv file, there is the MySQL code for this function in the 'newTable.sql' file

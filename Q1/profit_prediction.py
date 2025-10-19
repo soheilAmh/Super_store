@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import r2_score, mean_squared_error
 
-database = create_engine("mysql+pymysql://root:Arshia4030#Z@127.0.0.1:3306/superstore")
+database = create_engine("engine = create_engine('mysql+pymysql://devuser:S%40heil12@localhost/superstore')")
 
 order_detail = pd.read_sql("SELECT * FROM order_detail;", database)
 order = pd.read_sql("SELECT * FROM `order`;", database)
