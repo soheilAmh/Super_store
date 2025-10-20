@@ -1,0 +1,9 @@
+Feature,Importance
+Order_to_Ship_Time,0.95191395
+Order Priority,0.02876654
+Shipping Ratio,0.0089456225
+log_cost,0.002541394
+Quantity,0.002110333
+Sales,0.0019990585
+LOCATION_ID,0.0019643453
+Market,0.0017586574
