@@ -1,0 +1,16 @@
+Feature,Importance
+Discount,0.3921233
+Sales,0.21785115
+productkey_y,0.03825883
+customerkey_y,0.031995162
+Sales*Quantity,0.030239608
+MARKET_ID,0.028750874
+ORDERPRIORITY_ID,0.028099712
+Category_Office Supplies,0.0239133
+Segment_Corporate,0.02250838
+Quantity,0.020624775
+Shipping Cost,0.02059659
+Month,0.02010264
+Weekday,0.018800963
+Year,0.018494511
+LOCATION_ID,0.018384919
