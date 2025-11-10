@@ -4,13 +4,13 @@ In the first phase of this project we got a store's dataset (sales, shipment, cu
 
 In phase 2 we divided our products into two tables, 'Discounted' & 'UnDiscounted', we visualized, observed relationships and found trends between some features, and finally examined wheter discount on items affects the total amount of sales and concludes in more profit or not.
 
-Companies want to predict the future and control their work flow in the best possible waay for the desireable outcome, so In phase 3 we picked the most impactful and effective features, trained our dataset (80/20) with XGBoost and Random forest models to predict the 'profit' and 'Ship Mode'.
+Companies want to predict the future and control their work flow in the best possible waay for the desireable outcome, so In phase 3 we picked the most impactful and effective features, after feature engineering, we trained our dataset (80/20) with XGBoost and RandomForest models to predict the 'profit' and 'Ship Mode' columns.
 
-and in the last phase we reported our findings in previous phases, answered some frequent and important questions, and created dashboards for them in PowerBI
+and in the last phase we reported our findings in previous phases, answered managers questions about dataset, and created dashboards for them in PowerBI.
 
 ## Tools Used
 - Python (Numpy, Pandas, Scipy, Matplotlib, Seaborn, sklearn and etc.)
-- Jupyter Notebook
+- ML(XGBoost, RandomForest)
 - Feature engineering and statistical tests (Shapiro-Wilk, Chi squared, Mann–Whitney U)
 - PowerBI
 
