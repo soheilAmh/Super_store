@@ -1,5 +1,5 @@
 
-# Super store Analysis Project (A Quera bootcamp project)
+# Super store Analysis Project
 In the first phase of this project we got a store's dataset (sales, shipment, customers, products ...), after preprocessing and data cleaning we designed a data warehouse which includes fact and dimension tables and follows a STAR structure, ofcourse this design includes PKs, FKs and the relationship between the tables, then we imported these in PowerBI to ensure correctness of the steps we took.
 
 In phase 2 we divided our products into two tables, 'Discounted' & 'UnDiscounted', we visualized, observed relationships and found trends between some features, and finally examined wheter discount on items affects the total amount of sales and concludes in more profit or not.
