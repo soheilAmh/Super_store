@@ -1,77 +1,25 @@
-# Sales Data Model – Star Schema
 
-This document describes the data model designed for the Sales Analytics project.  
-The model is built using a Star Schema to provide high performance, simplicity, and scalability for Power BI reporting.
+# Super store Analysis Project
+In the first phase of this project we got a store's dataset (sales, shipment, customers, products ...), after preprocessing and data cleaning we designed a data warehouse which includes fact and dimension tables and follows a STAR structure, ofcourse this design includes PKs, FKs and the relationship between the tables, then we imported these in PowerBI to ensure correctness of the steps we took.
 
----
+In phase 2 we divided our products into two tables, 'Discounted' & 'UnDiscounted', we visualized, observed relationships and found trends between some features, and finally examined wheter discount on items affects the total amount of sales and concludes in more profit or not.
 
-## 1. Overview
+Companies want to predict the future and control their work flow in the best possible waay for the desireable outcome, so In phase 3 we picked the most impactful and effective features, after feature engineering, we trained our dataset (80/20) with XGBoost and RandomForest models to predict the 'profit' and 'Ship Mode' columns.
 
-The data model supports analytical use cases such as product performance, customer insights, market analysis, shipping analysis, and time-based reporting.
+and in the last phase we reported our findings in previous phases, answered managers questions about dataset, and created dashboards for them in PowerBI.
 
-The structure includes:
+## Tools Used
+- Python (Numpy, Pandas, Scipy, Matplotlib, Seaborn, sklearn and etc.)
+- ML(XGBoost, RandomForest)
+- Feature engineering and statistical tests (Shapiro-Wilk, Chi squared, Mann–Whitney U)
+- PowerBI
 
-- One fact table: fact_sales
-- Seven dimension tables: dimProduct, dimDate, dimShipMode, dimOrderPriority, dimLocation, dimCustomer, dimMarket
+## Team members and collaborators :
+- Soheil Alimohammadi
+- Sana Kouliyan
+- Mobin Mirzaei Nia
+- Arshia Zamani
+- Mohammadreza Mahdavi
+- Mahdi Fakhrfatemi
 
----
-
-## 2. Table Structure
-
-### Fact Table: fact_sales  
-This table contains all sales transactions and includes:
-
-- Foreign keys referencing each dimension table  
-- Numeric fields such as profit , quantity, shipping cost  
-- Additional measures used for reporting and analysis  
-
-### Dimension Tables  
-Each dimension table contains a generated surrogate key (ID).  
-These keys act as the primary key in each dimension and as foreign keys inside the fact table.
-
-- dimProduct: product information  
-- dimDate: full date attributes (day, month, year, quarter, etc.)  
-- dimShipMode: shipping method information  
-- dimOrderPriority: order priority categories  
-- dimLocation: country, region, state , and city information  
-- dimCustomer: customer profile and classification  
-- dimMarket: market segments and business areas  
-
----
-
-## 3. Data Cleaning and Preparation
-
-Before building the data model, all tables were cleaned and prepared:
-
-- Duplicate records were removed  
-- Surrogate keys were generated for all dimension tables  
-- Null values were handled and standardized  
-- Column names were unified and normalized  
-- Data granularity was validated across tables  
-- Consistency checks were applied to ensure data quality  
-
----
-
-## 4. Relationships
-
-All dimension tables have a one-to-many relationship with the fact table.  
-The direction is from the dimension table (one) to the fact table (many).
-
-The dimDate table contains an inactive relationship with fact_sales through the ShipDate field. This relationship can be activated within DAX when needed.
-
----
-
-## 5. Use Cases
-
-This model enables analysis of:
-
-- Sales performance over time  
-- Product-level trends  
-- Customer behavior and segmentation  
-- Market and regional performance  
-- Shipping method effectiveness  
-- Order priority distribution  
-
-It provides a structured, optimized foundation for building dashboards and reports in Power BI.
-
----
+This project was provided to us by the Quera team.
